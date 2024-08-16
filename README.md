@@ -1,2 +1,4 @@
-# RECORD
-自分用の記録。
+# Personal Weblog
+
+Hifumi の自分用のウェブログ。
+
